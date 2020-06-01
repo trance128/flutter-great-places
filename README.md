@@ -1,5 +1,4 @@
 Flutter Great Places
 ===========================================
 
-More practice with flutter.
-Practicing native device features, such as maps and camera
+Using Native Device features such as camera, geolocation, local storage etc
